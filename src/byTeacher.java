@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class byTeacher {
     public static void main(String[] args) {
         final Random random = new Random();
         final String[] words = { "skillmea", "akademia", "volby", "pocitac" };
